@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Pulse Chat",
+  "description": "A high-intelligent AI chatbot interface powered by Gemini, featuring a clean modern UI with system-level instruction handling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
